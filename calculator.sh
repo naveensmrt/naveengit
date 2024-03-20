@@ -13,4 +13,8 @@ x=1+2
 
 
 
-#division functionality
+#division functionalit
+
+
+
+#mergeExample ( mutiplication functionality)
