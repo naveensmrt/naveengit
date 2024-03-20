@@ -13,7 +13,8 @@ x=1+2
 
 
 
-#division functionalit
+#division functionality
+
 
 #main branch change
 
@@ -23,3 +24,6 @@ x=1+2
 #recent change developerchange
 
 
+
+
+#mergeExample ( mutiplication functionality)
